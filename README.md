@@ -1,8 +1,8 @@
-# Cardiovascular-Disease-Prediction-Cost-Sensitive-with-Threshold-ML
-
 # Cardiovascular Disease Prediction: Cost-Sensitive Screening with Threshold Optimization
 
 **Author:** Md. Anwarul Karim, MS in Data Science and Analytics, East West University
+
+<img width="2160" height="2700" alt="CVD_Prediction_Infographic" src="https://github.com/user-attachments/assets/52170f41-f2d5-4506-8398-47c4b0d50379" />
 
 ## Overview
 
